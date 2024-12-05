@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Location Sharing App</string>
+    <string name="fetching_location" translatable="false">Fetching location...</string>
+    <string name="map" translatable="false">Map</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="sms" translatable="false">SMS</string>
+    <string name="send_email" translatable="false">Send Email</string>
+    <string name="send_sms" translatable="false">Send SMS</string>
+    <string name="enter_email" translatable="false">Enter email address</string>
+    <string name="enter_phone" translatable="false">Enter phone number</string>
+    <string name="initial_txt" translatable="false">Click the Map Button to Load the Map</string>
+</resources>
+
+
